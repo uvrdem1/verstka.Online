@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sf-pro-display: "SF Pro Display";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --text: #122945;
+  --color-gray-100: #091336;
+  --color-gray-200: rgba(255, 255, 255, 0.6);
+  --ui-accent1: #005ff8;
+  --color-white: #fff;
+  --ui-accent: #002cfb;
+  --ui-yellow: #ffd500;
+  --color-gold-100: #edda01;
+  --color-lavender-100: #dee6f5;
+  --ui-secondary: #d8e4fb;
+  --color-lavender-200: rgba(216, 228, 251, 0.32);
+  --ui-red: #ea1a4f;
+  --ui-green: #28a879;
+  --text-green: #00a775;
+  --text-header: #899cb1;
+  --text-secondary: #5e7793;
+  --ui-light-green: #dbf8ef;
+  --text1: #2a353f;
+  --ui-light-red: #fee9ef;
+  --ui-icon: #adbfdf;
+  --color-lightgray: #ccc;
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-13xl: 32px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+  --gap-7xs: 6px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-4xs: 9px;
+  --padding-5xl: 24px;
+  --padding-2xs: 11px;
+  --padding-7xs: 6px;
+  --padding-5xs: 8px;
+  --padding-8xs: 5px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-xs: 12px;
+  --br-29xl: 48px;
+  --br-xl: 20px;
+
+  /* Effects */
+  --effect: 0px 4px 5px #e9edf3;
+}
